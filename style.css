@@ -1,6 +1,6 @@
 @import url("/style/header.css");
 :root{
-    --cor_de_fundo: #EBECEE;
+    --cor_de_fundo: #D3D3D3;
 }
 body{
     background-color: var(--cor_de_fundo);
