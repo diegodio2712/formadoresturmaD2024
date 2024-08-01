@@ -21,4 +21,7 @@
     color: var(--branco);
     padding: 1em;
     background-color: var(--laranja);
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
 }
