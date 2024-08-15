@@ -56,6 +56,11 @@
     display: none;
 }
 
+.cabecalho__titulo{
+    display: none;
+}
+
+
 @media screen and (min-width: 1024px){
     .cabecalho__titulo{
         font-family: var(--fonte-secundaria);
