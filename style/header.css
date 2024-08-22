@@ -60,6 +60,9 @@
     display: none;
 }
 
+.opcoes{
+    display: none;
+}
 
 @media screen and (min-width: 1024px){
     .cabecalho__titulo{
@@ -82,7 +85,7 @@
         text-transform: uppercase;
     }
 
-    .opcoes__link{
+    .opcoes__item-link{
         text-decoration: none;
         color: var(--preto);
     }
