@@ -129,4 +129,8 @@
     .opcoes{
         margin-right: auto;
     }
+
+    .container__texto{
+        display: block;
+    }
 }
