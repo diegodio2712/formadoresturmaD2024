@@ -114,7 +114,7 @@
 
 @media screen and (min-width: 1728px){
     .container__link{
-        dislpay: flex;
+        display: flex;
         align-items: center;
         text-decoration: none;
         color: var(--preto);
