@@ -115,7 +115,7 @@
 .container__texto{
     display: none;
 }
-@media screen and (min-width: 1728px){
+@media screen and (min-width: 1528px){
     .container__link{
         display: flex;
         align-items: center;
