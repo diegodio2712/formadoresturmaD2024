@@ -118,6 +118,7 @@
         align-items: center;
         text-decoration: none;
         color: var(--preto);
+        border: 2px solid red;
     }
     .cabecalho{
         padding: 0 2em;
