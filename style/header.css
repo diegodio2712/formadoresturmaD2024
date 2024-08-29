@@ -115,13 +115,12 @@
 .container__texto{
     display: none;
 }
-@media screen and (min-width: 1528px){
+@media screen and (min-width: 1628px){
     .container__link{
         display: flex;
         align-items: center;
         text-decoration: none;
         color: var(--preto);
-        border: 2px solid red;
     }
     .cabecalho{
         padding: 0 2em;
